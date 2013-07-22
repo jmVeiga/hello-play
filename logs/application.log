@@ -1,0 +1,9 @@
+2013-07-22 22:52:28,037 - [INFO] - from play in pool-19-thread-1 
+Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+
+2013-07-22 22:55:30,783 - [INFO] - from play in New I/O worker #1 
+Application started (Dev)
+
+2013-07-22 23:01:36,192 - [INFO] - from play in New I/O worker #1 
+Application started (Dev)
+
